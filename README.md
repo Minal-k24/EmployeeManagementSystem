@@ -118,7 +118,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any issues or queries, please contact:
 
-* Phone: +91 9156832992
-* Email: [aarushgaikwad789@gmail.com](mailto:aarushgaikwad789@gmail.com)
-
+* Phone: 
+* Email: 
 "# EmployeeManagementSystem" 
